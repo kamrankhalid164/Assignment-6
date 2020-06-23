@@ -110,7 +110,14 @@
 
 //Task15
 
+// var pass = prompt("Enter the password ", "Not start with number or max length is 6");
+// var num = ['48', '49', '50', '51', '52', '53', '54', '55', '56', '57'];
 
+// for (i = 0; i < num.length; i++)
+
+// if (pass.charAt(0) === num[i] || pass.length > 6) {
+//     console.log("please Enter a valid password");
+// }
 
 //Task16
 
